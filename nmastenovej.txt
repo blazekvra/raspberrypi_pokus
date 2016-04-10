@@ -1,2 +1,3 @@
+zmena je v exclusiv vetvi
 novej sobour v masterovi
 a taky jsem dopisu dalsi radek
